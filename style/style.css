@@ -95,6 +95,11 @@ ul li a:hover {
     .copyright {
         font-size: 8px;
     }
+    .footer-contact ul li{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 /* Small devices (landscape phones, less than 768px) */
