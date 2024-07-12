@@ -94,6 +94,7 @@ ul li a:hover {
 @media (max-width: 575.98px) {
     .copyright {
         font-size: 8px;
+        text-align: center;
     }
     .footer-contact ul li{
         display: flex;
@@ -106,6 +107,7 @@ ul li a:hover {
 @media (max-width: 767.98px) { 
     .copyright {
         font-size: 8px;
+        text-align: center;
     }
     .footer-contact ul li{
         display: flex;
@@ -117,6 +119,7 @@ ul li a:hover {
 /* Medium devices (tablets, less than 992px) */
 @media (max-width: 991.98px) { 
     .copyright {
+        text-align: center;
         font-size: 8px;
     }
     .footer-contact ul li{
